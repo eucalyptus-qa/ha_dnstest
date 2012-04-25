@@ -1,0 +1,1 @@
+../stage01/component_ha_detect.pl
